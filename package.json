@@ -1,0 +1,19 @@
+{
+  "name": "ltalk",
+  "version": "1.0.0",
+  "description": "A simple one on one video chat app implemented using WebSockets.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LoveSaroha/lTalk"
+  },
+  "author": "lovesaroha",
+  "license": "ISC",
+  "dependencies": {
+    "sha1": "1.1.1",
+    "websocket": "1.0.34"
+  }
+}
